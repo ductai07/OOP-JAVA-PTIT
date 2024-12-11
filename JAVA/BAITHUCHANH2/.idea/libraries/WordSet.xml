@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WordSet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/C/WordSet.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
